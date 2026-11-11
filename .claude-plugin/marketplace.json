@@ -1,0 +1,13 @@
+{
+  "name": "genzfy",
+  "owner": {
+    "name": "Kaseban"
+  },
+  "plugins": [
+    {
+      "name": "genzfy",
+      "source": "./",
+      "description": "Evidence-informed food and beverage intake, audit, playbook, pilot, voice, creative review and workforce guidance."
+    }
+  ]
+}
